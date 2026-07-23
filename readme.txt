@@ -1,1 +1,0 @@
-This is my personal website, there really isn't much to it
