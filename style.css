@@ -22,7 +22,6 @@ body {
 #nav-buttons {
     grid-column: 3;
     justify-self: end;
-
     display: flex;
     gap: 10px;
 }
@@ -31,6 +30,7 @@ body {
     width: 100px;
     height: 40px;
     background-color: #313131;
+    color: #c4c4c4;
 }
 
 #projects {
