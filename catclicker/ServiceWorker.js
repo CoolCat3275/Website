@@ -1,9 +1,9 @@
 const cacheName = "Wyatt McKenzie-Cat Clicker-1.0.0";
 const contentToCache = [
     "Build/Cat Clicker.loader.js",
-    "Build/Cat Clicker.framework.js.br",
-    "Build/Cat Clicker.data.br",
-    "Build/Cat Clicker.wasm.br",
+    "Build/Cat Clicker.framework.js",
+    "Build/Cat Clicker.data",
+    "Build/Cat Clicker.wasm",
     "TemplateData/style.css"
 
 ];
